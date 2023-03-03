@@ -10,7 +10,7 @@ JOBS = [
     },
       {
         "id" : 2,
-        "title" : "Manager",
+        "title" : "Advisory Manager",
         "company" : "EY",
         "location" : "Chicago"
     },
